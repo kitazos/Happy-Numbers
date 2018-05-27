@@ -55,5 +55,7 @@ while True:
             next_number += int(digit) ** 2
         all_numbers.append(next_number)
         x = next_number
-        print(next_number)                                                                                  # Debugging
+        
+        # un-comment for debugging
+        # print(next_number)
 
